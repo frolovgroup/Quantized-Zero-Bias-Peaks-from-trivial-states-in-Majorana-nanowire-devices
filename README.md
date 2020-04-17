@@ -1,0 +1,1 @@
+# Quantized-Zero-Bias-Peaks-from-trivial-states-in-Majorana-nanowire-devices
